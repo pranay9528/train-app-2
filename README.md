@@ -21,6 +21,7 @@ You now have:
 ✅ Manual approval gate before production
 
 ✅ Automated production deployment
+2 stage application
 
 ## Running the app
 
